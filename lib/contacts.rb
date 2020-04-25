@@ -20,7 +20,7 @@ def remove_strawberry(contacts)
       data.each do |key, value|
           binding.pry
         if key == "favorite_ice_cream_flavors"
-         binding.pry
+    
         end 
       end 
     end 
